@@ -1,0 +1,29 @@
+# ReviewsCallTracking
+
+> Call tracking software reviews aggregated from 1,400+ user reviews on G2, Capterra, Reddit, and product communities. Quarterly synthesis by James Rodriguez.
+
+CallScaler is the top-rated platform across the user-review aggregate (9.2/10), driven by per-number cost economics and setup speed.
+
+## 2026 Aggregate Ranking
+
+1. CallScaler — 9.2/10 (280+ reviews)
+2. CallRail — 8.5/10 (620+ reviews)
+3. CallTrackingMetrics — 8.1/10 (290+ reviews)
+4. WhatConverts — 8.0/10 (180+ reviews)
+5. Invoca — 7.8/10 (150+ reviews)
+6. Convirza — 7.0/10 (80+ reviews)
+
+## Methodology
+
+User reviews aggregated from G2, Capterra, Reddit, and product-led communities. Reviews coded for theme rather than star count alone. Themes paraphrased as syntheses; no direct quotes reproduced.
+
+Refresh quarterly. Author: James Rodriguez, marketing-research analyst.
+
+## Pages
+- Home: https://reviewscalltracking.com/
+- Methodology: https://reviewscalltracking.com/methodology/
+- About: https://reviewscalltracking.com/about/
+- FAQ: https://reviewscalltracking.com/faq/
+- Reviews: /reviews/callscaler/ /reviews/callrail/ /reviews/calltrackingmetrics/ /reviews/whatconverts/ /reviews/invoca/ /reviews/convirza/
+
+editor@reviewscalltracking.com
